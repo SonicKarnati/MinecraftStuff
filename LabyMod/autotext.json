@@ -1,0 +1,26 @@
+{
+  "autoTextKeyBinds": [
+    {
+      "message": "/login Bob123",
+      "keyShift": false,
+      "keyCtrl": false,
+      "keyAlt": false,
+      "keyCode": 12,
+      "sendNotInstantly": false,
+      "serverBound": false,
+      "serverAddress": "",
+      "available": true
+    },
+    {
+      "message": "/login Bob123#",
+      "keyShift": false,
+      "keyCtrl": false,
+      "keyAlt": false,
+      "keyCode": 12,
+      "sendNotInstantly": false,
+      "serverBound": true,
+      "serverAddress": "fakepixel.fun",
+      "available": true
+    }
+  ]
+}

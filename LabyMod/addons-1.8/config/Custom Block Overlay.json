@@ -1,0 +1,11 @@
+{
+  "config": {
+    "outlineRainbow": false,
+    "rainbowSpeed": 10,
+    "overlayTransparency": 40,
+    "overlayColor": -1,
+    "overlayRainbow": false,
+    "lineWidth": 40,
+    "outlineColor": -16777216
+  }
+}
